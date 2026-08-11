@@ -3,3 +3,4 @@
 Basic plan: $9/month  (first month free)
 Pro plan:   $30/month
 Corporate plan: $35/month
+Super special plan: TBD
